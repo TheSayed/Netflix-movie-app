@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netflix-movie-app/static/css/main.c044f77c.css",
+    "main.js": "/Netflix-movie-app/static/js/main.a8369d4e.js",
+    "static/media/logo-netflix.png": "/Netflix-movie-app/static/media/logo-netflix.2ea6959de5a86bd775a9.png",
+    "static/media/logo.svg": "/Netflix-movie-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Netflix-movie-app/index.html",
+    "main.c044f77c.css.map": "/Netflix-movie-app/static/css/main.c044f77c.css.map",
+    "main.a8369d4e.js.map": "/Netflix-movie-app/static/js/main.a8369d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c044f77c.css",
+    "static/js/main.a8369d4e.js"
+  ]
+}
